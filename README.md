@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+The+World+Of+A;Computer+Science+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+The+World+Of;Computer+Science+Engineering+Student)](https://git.io/typing-svg)
 
