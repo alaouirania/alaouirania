@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+The+World+Of;Computer+Science+Engineering+Student)](https://git.io/typing-svg)
 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><br><br><br>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/offices/64/000000/php-logo.png"/><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+<br><br><br>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/><img src="https://img.icons8.com/color/48/000000/windows-logo.png"/>
+<br><br><br>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
