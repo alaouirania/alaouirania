@@ -20,7 +20,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👩‍💼 How to reach me m.alaouiranmoia2809@gmail.com  
+- 👩‍💼 How to reach me m.alaouirania2809@gmail.com  
   
 
 - 📱 I’m currently learning Mobile Development  
