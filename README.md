@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **m.alaouirania2809@gmail.com**
 
-- ⚡ Fun fact I'm learning Korean ![image](https://user-images.githubusercontent.com/75624037/153560426-6417d6c1-9408-4250-ab09-ab78bfd0ada4.png)
+- ⚡ Fun fact I love Korean Culture ![image](https://user-images.githubusercontent.com/75624037/153560426-6417d6c1-9408-4250-ab09-ab78bfd0ada4.png)
 
 
 
