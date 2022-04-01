@@ -29,7 +29,7 @@
 - 🌐 I like to learn new  cultures  
   
 
-- ❓ Let me know if you would like me to collaborate with you  
+- ❓ Let me know if you would like to collaborate with me  
 
 
 </td><td valign="top" width="50%">
