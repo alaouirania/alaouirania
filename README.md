@@ -17,7 +17,7 @@
 <br/>  
 
 
-## aBOUT ME  
+## About Me  
 <table><tr><td valign="top" width="50%">
 
 - 👩‍💼 How to reach me m.alaouirania2809@gmail.com  
