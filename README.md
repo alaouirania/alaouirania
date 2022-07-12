@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Medaghri Alaoui Rania</h1>
+<h3 align="center">A passionate software developer from Morocco</h3>
+
 # 💫 About Me:
 💪🏼 I'm a really motivated && ambitious person<br>🔭 I’m currently learning MERN Stack<br>⚡ Fun fact I'm learning Spanish 🇪🇸 && Korean 🇰🇷<br>🤝Let me know if you would like to collaborate with me<br>👩‍💼 How to reach me medaghrialaouirania@gmail.com<br>
 
