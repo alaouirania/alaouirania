@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Medaghri Alaoui Rania</h1>
+<h1 align="center">Hello Word 👋, I'm Medaghri Alaoui Rania</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 
 # 💫 About Me:
-💪🏼 I'm a really motivated && ambitious person<br>🔭 I’m currently learning MERN Stack<br>⚡ Fun fact I'm learning Spanish 🇪🇸 && Korean 🇰🇷<br>🤝Let me know if you would like to collaborate with me<br>👩‍💼 How to reach me medaghrialaouirania@gmail.com<br>
-
-
+💻 Tech Stack : JavaScript, TypeScript, PHP, Python | Angular, React, Vue.js | Symfony, Laravel, Node.js, Django | MySQL, PostgreSQL, MongoDB <br>
+🚀 Centres d’intérêt : E-health, IA (Computer Vision), Web Performance, DevOps <br>
+🌱 En cours d'apprentissage : Approfondissement en IA et entrepreneuriat en ligne <br>
+📫 Me contacter : medaghrialaouirania@gmail.com <br>
+ <br> <br>
+💡 Toujours à la recherche de nouveaux défis et opportunités !
+ <br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Niina#6879) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rania-medaghri-alaoui/) 
 
